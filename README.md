@@ -26,7 +26,7 @@ Bu platform aracılığıyla:
 Şu anki ana odak projemiz, **Kur'an-ı Kerim'i dijital ortamda en iyi şekilde deneyimlemeyi sağlayacak, modern, kullanıcı dostu ve erişilebilir açık kaynaklı bir uygulama** geliştirmektir.
 
 *   **Hedef:** Herkesin kolayca erişebileceği, farklı platformlarda çalışabilen, güvenilir ve zengin özelliklere sahip bir Kur'an uygulaması.
-*   **Katkı Alanları:** Arayüz tasarımı (UI/UX), ön yüz geliştirme (Frontend), arka yüz geliştirme (Backend), mobil geliştirme, veri yönetimi, çeviri ve tefsir entegrasyonları, test ve kalite güvence gibi birçok alanda katkılarınıza açığız.
+*   **Katkı Alanları:** Arayüz tasarımı (UI/UX), ön yüz geliştirme (Frontend), mobil geliştirme, test ve kalite güvence gibi birçok alanda katkılarınıza açığız.
 *   **Proje Linki:** `[https://github.com/dib-bid]`
 
 Gelecekte, toplulukla birlikte daha nice faydalı projeye imza atmayı arzuluyoruz.
