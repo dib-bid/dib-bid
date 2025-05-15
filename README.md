@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Diyanet_logo.svg/1200px-Diyanet_logo.svg.png" alt="Diyanet İşleri Başkanlığı Logosu" width="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Diyanet_%C4%B0%C5%9Fleri_Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1_yeni_logo.svg/1024px-Diyanet_%C4%B0%C5%9Fleri_Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1_yeni_logo.svg.png" alt="Diyanet İşleri Başkanlığı Logosu" width="150"/>
 </p>
 
 # Diyanet İşleri Başkanlığı - Bilgi İşlem Daire Başkanlığı 🤝💻
@@ -27,7 +27,7 @@ Bu platform aracılığıyla:
 
 *   **Hedef:** Herkesin kolayca erişebileceği, farklı platformlarda çalışabilen, güvenilir ve zengin özelliklere sahip bir Kur'an uygulaması.
 *   **Katkı Alanları:** Arayüz tasarımı (UI/UX), ön yüz geliştirme (Frontend), arka yüz geliştirme (Backend), mobil geliştirme, veri yönetimi, çeviri ve tefsir entegrasyonları, test ve kalite güvence gibi birçok alanda katkılarınıza açığız.
-*   **Proje Linki:** `[Kur'an Uygulaması Proje Linkini Buraya Ekleyin]` (Link hazır olduğunda güncelleyebilirsiniz)
+*   **Proje Linki:** `[https://github.com/dib-bid]`
 
 Gelecekte, toplulukla birlikte daha nice faydalı projeye imza atmayı arzuluyoruz.
 
