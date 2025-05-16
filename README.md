@@ -88,7 +88,7 @@ Birlikte geliştireceğimiz projelerde yer almak, fikirlerinizi paylaşmak veya 
 
 Resmi kurumsal konular için aşağıdaki kanalları kullanabilirsiniz:
 
-*   **E-posta:** `[bim@diyanet.gov.tr]` (Lütfen resmi e-posta adresinizle güncelleyiniz)
+*   **E-posta:** `[bim@diyanet.gov.tr]`
 
 ---
 
